@@ -4,24 +4,24 @@ The release is inspired by the popular FiveM script [Pixel_AntiCL](https://githu
 Cons of using antiCL-NUI
 ## - Improved visibility and styling
 **Pixel_AntiCL**
-![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/c11a198d-ca14-4128-a3d9-7944c55b2f82)
+![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/ddf482a0-bb32-4f6a-806a-e97018b023f8)
 **antiCL-NUI**
-![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/d3ac6263-007a-461e-8631-39a7b96fbc7e)
+![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/b56a2cc7-d18e-4b23-b212-ac3cce96800e)
 ## - Improved performance 
 **Pixel_AntiCL**
 
-![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/152b973e-0ccd-4e13-9d24-77b478853e26)
+![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/1d15154c-f07b-437b-9920-257497001fd4)
 
 **antiCL-NUI**
 
-![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/4a65c9c9-f8a4-41fa-8234-f74d091a0bce)
+![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/3136ba2b-04c4-419f-a563-a214cdeec3a9)
 ## - Enchanted customizability
 **Pixel_AntiCL**
-![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/767e8dd8-ed58-4f6a-b70d-1f501edac88a)
+![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/fbf8a5e9-f105-451e-9415-06c49d9c85a5)
 **antiCL-NUI**
-![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/758df2f3-1c6e-4e1e-87c3-8c2d701854a6)
+![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/09478621-1c65-491c-811e-351a1e6a0976)
 
-![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/2702cb32-0628-4bc1-8447-fcbc08be7b73)
+![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/8ffdfd1a-2d6b-497e-936d-f2167178a913)
 
 ## - Other cons
 Using NUI also brings many other benefits, such as flexibility for customization, better scaling, and being invisible in screenshots (as many FiveM anticheats have OCR systems, and Pixel_AntiCL tends to result in false bans on a wide range of FiveM servers)
