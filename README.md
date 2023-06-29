@@ -1,7 +1,7 @@
 # antiCL-NUI
 The release is inspired by the popular FiveM script [Pixel_AntiCL](https://github.com/pixel5718/pixel_antiCL/tree/master) and is made to allow you to display a 3D notification whenever a player leaves a server. It maintains great performance by presenting everything in NUI and introduces an amazing style.
 
-Cons of using antiCL-NUI
+Pros of using antiCL-NUI
 ## - Improved visibility and styling
 **Pixel_AntiCL**
 ![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/ddf482a0-bb32-4f6a-806a-e97018b023f8)
@@ -23,7 +23,7 @@ Cons of using antiCL-NUI
 
 ![image](https://github.com/Szpachlan/antiCL-NUI/assets/73557171/8ffdfd1a-2d6b-497e-936d-f2167178a913)
 
-## - Other cons
+## - Other pros
 Using NUI also brings many other benefits, such as flexibility for customization, better scaling, and being invisible in screenshots (as many FiveM anticheats have OCR systems, and Pixel_AntiCL tends to result in false bans on a wide range of FiveM servers)
 
 ## Credits : 
