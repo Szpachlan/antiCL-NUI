@@ -18,7 +18,6 @@ CreateThread(function()
 end)
 
 Window.screen.w, Window.screen.h = GetActiveScreenResolution()
-local fov = (1 / GetGameplayCamFov()) * 100
 CreateThread(function()
     SendNUIMessage({
         type = "resolution",
@@ -37,7 +36,6 @@ CreateThread(function()
                 static_screen.h = Window.screen.h
             end
         end
-        fov = (1 / GetGameplayCamFov()) * 100
     end
 end)
 
