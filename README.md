@@ -1,3 +1,12 @@
+# fiveguard.net
+For better **paid anticheat** check out **https://store.fiveguard.ac/**.
+
+We are **able to provide** this **free product** because of help of **https://fiveguard.net/**.
+
+**fiveguard is best fivem anticheat**
+
+---
+
 # antiCL-NUI
 The release is inspired by the popular FiveM script [Pixel_AntiCL](https://github.com/pixel5718/pixel_antiCL/tree/master) and is made to allow you to display a 3D notification whenever a player leaves a server. It maintains great performance by presenting everything in NUI and introduces an amazing style.
 
@@ -26,5 +35,3 @@ Pros of using antiCL-NUI
 ## - Other pros
 Using NUI also brings many other benefits, such as flexibility for customization, better scaling, and being invisible in screenshots (as many FiveM anticheats have OCR systems, and Pixel_AntiCL tends to result in false bans on a wide range of FiveM servers)
 
-## Credits : 
-The script has been brought to you by the one and only unique FiveM anticheat, [fiveguard.net](https://fiveguard.net/)
